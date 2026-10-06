@@ -1,39 +1,46 @@
-# Hola, soy Francisco Aiello
+# Francisco Aiello
 
-Profesional de Soporte de Sistemas con 5 años de experiencia brindando soporte técnico a sucursales Carrefour.
+IT Support professional with 5 years of experience providing technical support to Carrefour stores in corporate environments.
 
-Actualmente me estoy enfocando en fortalecer mis conocimientos en:
+My current work focuses on incident diagnosis and resolution, POS systems, servers, applications, peripherals, and coordination with different technical teams. I use tools such as ServiceNow, PuTTY, WinSCP, VNC and Grafana as part of my daily work.
 
-- SQL y PostgreSQL
+## Currently improving my skills in
+
+- SQL
+- PostgreSQL
 - JavaScript
 - Node.js
-- Express
+- Express.js
 - React
-- Bases de datos
-- Desarrollo backend
+- Backend Development
+- Databases
 
-## Experiencia técnica
+## Technical Experience
 
-- Soporte N1/N2
+- Level 1 / Level 2 Support
+- Incident Management
+- Troubleshooting
 - ServiceNow
 - PuTTY
 - WinSCP
 - VNC
 - Grafana
-- POS y Self Checkout
+- POS and Self-Checkout systems
 - VMware ESX
-- Diagnóstico y resolución de incidentes
+- Virtual Machines
+- Application Support
+- Hardware and Software Diagnosis
 
-## Objetivo profesional
+## Career Goals
 
-Continuar creciendo en posiciones de:
+I am interested in continuing to grow in roles related to:
 
 - Application Support
-- Soporte N2
-- Operaciones IT
-- Bases de Datos
-- Desarrollo Backend Junior
+- Level 2 Support
+- IT Operations
+- Databases
+- Junior Backend Development
 
-## Proyectos
+## Projects
 
-Próximamente voy a estar publicando proyectos orientados a bases de datos, soporte y desarrollo web.
+I am currently working on new projects focused on databases, IT support and web development.
